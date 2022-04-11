@@ -1,0 +1,27 @@
+body{
+	font-size: 30px;
+	margin:20px;
+	background-color: #D2D7DF;
+}
+
+h1{font-family: Impact, sans-serif;
+	text-transform: uppercase;}
+
+.attribution{
+	font-size:7px;
+}
+.choice1{
+	font-size: 25px;
+	text-decoration: none;
+	color: #EE6352 ;
+}
+.choice2{
+	font-size: 25px;
+	text-decoration: none;
+	color: #477998;
+}
+.home{font-family: Impact, sans-serif;
+	text-transform: uppercase;
+	color:#444;	
+	text-decoration: none;
+}
